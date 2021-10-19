@@ -1,0 +1,13 @@
+.Eclipse
+.git
+AppData
+Collegamenti
+Contatti
+Desktop
+Documenti
+Download
+Immagini
+Musica
+Oggetti 3D
+.gitconfig
+NTUSER.DAT
